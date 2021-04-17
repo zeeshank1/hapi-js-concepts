@@ -1,0 +1,22 @@
+{
+  "name": "hapi-js-concepts",
+  "version": "1.0.0",
+  "description": "learn hapi.js basic concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeshank1/hapi-js-concepts.git"
+  },
+  "author": "Zeeshan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeeshank1/hapi-js-concepts/issues"
+  },
+  "homepage": "https://github.com/zeeshank1/hapi-js-concepts#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2"
+  }
+}
