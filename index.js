@@ -1,8 +1,8 @@
-"use strict";
 //To execute javascript code in STRICT mode.
 //It is more restricted version of Javascipt, where semantics are altered to make the code more resilent and secured
 //Some silent error are change to throw errors
 //It disables some confusing and undefined features in javascript
+"use strict";
 
 const Hapi = require("@hapi/hapi");
 
